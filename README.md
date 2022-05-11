@@ -32,3 +32,5 @@ Make a move (src: source index, dst:destination index):
 ## Text Form 
 
 <img width="457" alt="截圖 2022-05-11 下午4 03 32" src="https://user-images.githubusercontent.com/105199493/167779639-2236d837-7be2-49d3-9279-f6945a382aa1.png">
+
+Run Notfreecell file to play it!
